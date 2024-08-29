@@ -73,3 +73,16 @@ PORT=your_server_port
 }
 
 ````
+## Installation
+
+# Clone the repository
+
+git clone https://github.com/UdayaKumar0723/zoom-integration-nodejs.git
+
+# Navigate into the project directory
+
+cd src
+
+# Install dependencies
+
+npm install
